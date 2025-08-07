@@ -15,3 +15,6 @@ https://sunny-archive.tistory.com/112
 
 ## Beampatterns
 ![Beampatterns](imgs/dg_beamforming.png)
+
+## Acknowlegement
+Special thanks to kimhs355. This work is implemented by his contribution.
