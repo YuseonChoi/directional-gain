@@ -8,10 +8,3 @@ Zhang, Fan, et al. "Directional Gain Based Noise Covariance Matrix Estimation fo
 **Seminar presentation video (Korean):**<br>
 https://sunny-archive.tistory.com/112
 
-## Directional Gain 
-<div align="center">
-  <img src="imgs/dg_framework.png" width="600"/>
-</div>
-
-## Beampatterns
-![Beampatterns](imgs/dg_beamforming.png)
